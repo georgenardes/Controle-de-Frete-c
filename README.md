@@ -2,6 +2,8 @@
 Controle de frete em C++
 
 ## Desenvolvedores 
-Andriy Fujii 
+Andriy Fujii
+
 George Nardes
+
 Teddy Ordoñez
